@@ -1,2 +1,2 @@
 # streamlit_calc
-this is my first projecct
+this is my first project
